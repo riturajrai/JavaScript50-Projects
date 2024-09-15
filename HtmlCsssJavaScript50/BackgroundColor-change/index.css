@@ -1,0 +1,23 @@
+body{
+    display: grid;
+    place-items: center;
+    position: relative;
+    
+}
+.btn{
+  width: 100px;
+  padding: 20px;
+  position: absolute;
+  top: 300px;
+
+}
+.code{
+
+    text-align: center;
+    padding-top: 20px;
+    width: 100px;
+    height: 80px;
+    background-color: rgb(159, 154, 146);
+    border-radius: 5px;
+    
+}
